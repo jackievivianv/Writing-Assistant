@@ -1,0 +1,5 @@
+{
+  "name": "GetInkspired - Puntuación Gramatical",
+  "description": "Una herramienta de IA que analiza textos para proporcionar una puntuación de calidad gramatical y ortográfica del 1 al 100, junto con un desglose detallado de los errores para ayudar a los autores a mejorar su escritura.",
+  "requestFramePermissions": []
+}
